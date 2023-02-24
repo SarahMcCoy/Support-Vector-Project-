@@ -1,1 +1,1 @@
-# Support-Vector-Project-
+# Support-Vector-Machines-Project-
